@@ -1,0 +1,17 @@
+{
+  "plugin_name": "BotManager",
+  "plugin_scope": "botmanager",
+  "plugin_exec": "main.js",
+  "command_map": {},
+  "author": "Kaysil",
+  "version": "1.0",
+  "node_depends": {
+    "node-fetch": "*",
+    "moment": "*"
+  },
+  "dependents": [],
+  "chatHook": "chathook",
+  "chatHookType": "everything",
+  "chatHookPlatform": 1,
+  "complied_for": "0.5.0"
+}
