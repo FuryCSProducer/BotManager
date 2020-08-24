@@ -4,7 +4,7 @@
   "plugin_exec": "main.js",
   "command_map": {},
   "author": "Kaysil",
-  "version": "2.3",
+  "version": "2.5",
   "node_depends": {
     "node-fetch": "*",
     "moment": "*"
