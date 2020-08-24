@@ -4,10 +4,13 @@
   "plugin_exec": "main.js",
   "command_map": {},
   "author": "Kaysil",
-  "version": "1.0",
+  "version": "1.5",
   "node_depends": {
     "node-fetch": "*",
     "moment": "*"
+  },
+  "file_map": {
+	"plugins.json": "BotManagerVersion"
   },
   "dependents": [],
   "chatHook": "chathook",
